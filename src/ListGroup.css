@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+  background-color: gold;
+  font-size: 48px;
+  padding: 15px;
+}
+.list {
+  padding-left: 0;
+  list-style-type: none;
+  font-size: 30px;
+}
+.item {
+  padding: 15px 20px;
+  border-bottom: 1px solid black;
+}
+.active {
+  background-color: lime;
+}
